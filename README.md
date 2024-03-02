@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is Poojitha Penta , a current MS CS Grad at Univeristy of massachusetts Amherst. 
+This is Poojitha Penta , a current MS Computer Science Grad 👩‍🎓 at Univeristy of Massachusetts Amherst. 
 <!--
 **Poojitha1509/Poojitha1509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
