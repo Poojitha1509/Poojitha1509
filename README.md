@@ -3,7 +3,9 @@ This is Poojitha Penta , a current MS Computer Science Grad 👩‍🎓 at Unive
 
 Skills:
 Programming Languages:  Python, R, SQL, C, HTML/CSS
+
 AI/ML : PyTorch, TensorFlow, Hugging face, NLTK, scikit-learn, NumPy, pandas
+
 Technologies/Frameworks : Microsoft Azure, Flask, Django, SQLite
  
 <!--
