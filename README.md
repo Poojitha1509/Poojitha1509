@@ -9,19 +9,7 @@ This is Poojitha Penta , a current MS Computer Science Grad 👩‍🎓 at Unive
 
 
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Poojitha1509&show_icons=true&theme=radical&count_private=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poojitha1509&layout=compact&theme=radical" />
-    </td>
-  </tr>
-</table>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Poojitha1509&theme=radical&hide_border=false)](https://git.io/streak-stats)
-![Profile views](https://komarev.com/ghpvc/?username=Poojitha1509&color=blue)
  
 <!--
 **Poojitha1509/Poojitha1509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
